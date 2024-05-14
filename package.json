@@ -1,0 +1,22 @@
+{
+  "name": "rk_typescript-quiz-system",
+  "version": "1.0.0",
+  "main": "index.js",
+  "type": "module",
+  "bin": {
+    "rk_typescript-quiz-system": "index.js"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "description": "This is a simple quiz game.",
+  "dependencies": {
+    "inquirer": "^9.2.21"
+  },
+  "devDependencies": {
+    "@types/inquirer": "^9.0.7"
+  }
+}
